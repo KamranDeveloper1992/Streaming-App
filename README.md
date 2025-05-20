@@ -15,8 +15,3 @@ You can view a sample project using the link below:
 - Axios (if applicable)
 - Material ui
 - Component-based architecture
-
----
-
-## 📁 Project Structure
-
